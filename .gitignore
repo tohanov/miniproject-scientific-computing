@@ -1,7 +1,2 @@
 *
 !.gitignore
-!part1_mini_sci_comp.ipynb
-!saved-grid-search/
-!saved-grid-search/*
-!hw-data/
-!hw-data/*
